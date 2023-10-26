@@ -1,0 +1,2 @@
+.pdf files for the UML Class Diagram for the program and the pseudocode for the collision detection can be found in the Documentation folder.
+A .mp4 file showing video footage of my Pong game running can be found in the Video folder.
